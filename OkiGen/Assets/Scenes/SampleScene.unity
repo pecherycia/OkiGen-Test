@@ -352,7 +352,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 304689048}
   conveyorSpeed: 0.6
-  conveyorMaterial: {fileID: 2100000, guid: 8b3589395d06e0b4181fe94ec5c5e248, type: 2}
+  conveyorMaterial: {fileID: 2100000, guid: 841e7b19449cb614c83173109d4709c5, type: 2}
 --- !u!65 &304689050
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -386,7 +386,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8b3589395d06e0b4181fe94ec5c5e248, type: 2}
+  - {fileID: 2100000, guid: 841e7b19449cb614c83173109d4709c5, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
